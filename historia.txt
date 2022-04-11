@@ -3,3 +3,5 @@ Esta es la historia de Valentina
 Valentina Virguez Valbuena
 
 Tiene 26 años y nació en Bogotá, Colombia y está aprendiendo Git y Github.
+
+Hoy hablaremos de su vida.
