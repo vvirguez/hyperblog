@@ -9,5 +9,6 @@ Un blog de prueba para el curso de Git y Github de Platzi
 * Todos los comandos que podemos usar en Git
 * El flujo de trabajo de Git
 * Como crear, clonar y generar cambios en repositorios
+* Creado por PLatzi Team
 
 Y solo para recordar usar readme.md es una buena práctica y este es un repositorio de prueba para hacer la parte práctica del curso profesional de Git y Github de Platzi.
