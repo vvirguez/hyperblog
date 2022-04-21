@@ -50,8 +50,11 @@ body
   background: white;
   padding: 1em;
 }
-=======
-
+#post
+{
+  background: white;
+  padding: 1em;
+}
 #footer
 {
   background: #37488b;
@@ -59,4 +62,7 @@ body
   text-align: center;
   padding: 0.5em;
 }
+=======
+
+
 >>>>>>> 97fb0024817674f6a3d87bf0676b8097f0c82e6a
