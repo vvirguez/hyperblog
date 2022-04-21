@@ -7,5 +7,6 @@ Tiene 26 años y nació en Bogotá, Colombia y está aprendiendo Git y Github.
 Silvana tiene 18 años y nació en una clínica.
 
 Master 1
+Master 2
 
 Hoy hablaremos de su vida y obra maestra.
